@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Opening portfolio…</title>
+    <script>
+      (function (location) {
+        var segments = location.pathname.split("/").filter(Boolean);
+        var base = segments.length ? "/" + segments[0] + "/" : "/";
+        var route = segments.slice(1).join("/");
+        var query = location.search ? location.search.slice(1).replace(/&/g, "~and~") : "";
+        location.replace(base + "?/" + route + (query ? "?" + query : "") + location.hash);
+      })(window.location);
+    </script>
+  </head>
+  <body></body>
+</html>

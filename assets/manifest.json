@@ -1,0 +1,33 @@
+{
+  "fileKey": "653P3b5WJNXnTBFa0gCkHE",
+  "frames": {
+    "home": "48:519",
+    "kuper": "48:300",
+    "mts": "48:391",
+    "avito": "48:443"
+  },
+  "assets": [
+    "avito-logo.svg",
+    "avito-preview.png",
+    "avito-cart-redesign.png",
+    "avito-delivery-abuse.png",
+    "avito-item-card.png",
+    "kuper-logo.svg",
+    "kuper-preview.png",
+    "kuper-announcement-platform.png",
+    "kuper-gamification-goals.png",
+    "kuper-sberprime-redesign.png",
+    "kuper-loyalty-redesign.png",
+    "mts-logo.svg",
+    "mts-preview.png",
+    "mts-video.png",
+    "mts-streamer.png",
+    "mts-my-page.png",
+    "mts-analytics.png",
+    "mts-shorts.png",
+    "profile.png",
+    "profile-footer.png",
+    "editorial-texture.png"
+  ]
+}
+
